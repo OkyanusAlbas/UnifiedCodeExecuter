@@ -1,7 +1,8 @@
+# UCE (Unified Code Executor)
 
-
-'''
-.
+UCE is a light weight CLI tool that executes source files using command interface
+'''bash
+UCE
 ├── build                   // Compiler Output
 ├── include                 // Shared Headers
 │   ├── command.h
