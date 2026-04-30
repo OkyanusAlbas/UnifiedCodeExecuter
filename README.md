@@ -1,7 +1,7 @@
 # UCE (Unified Code Executor)
 
 UCE is a light weight CLI tool that executes source files using command interface
-'''bash
+<pre>
 UCE
 ├── build                   // Compiler Output
 ├── include                 // Shared Headers
@@ -17,7 +17,7 @@ UCE
     └── utils
         ├── file_utils.c
         └── string_utils.c
-'''
+</pre>
 How Pieces Connect
 
 uce run main.c
